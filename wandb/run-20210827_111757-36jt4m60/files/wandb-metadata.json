@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.11.0-27-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.7",
+    "heartbeatAt": "2021-08-27T05:47:58.932866",
+    "startedAt": "2021-08-27T05:47:57.768613",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-868b708c-92d7-4062-9c7f-39a0242add26.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/Sklearn/Regression/Apple-Stock-Price-Prediction",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/Apple-Stock-Price-Prediction.git",
+        "commit": "f9e9179fc0141ea779b7e41ea1c33ddb027f8cf8"
+    },
+    "email": "aigithub@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
